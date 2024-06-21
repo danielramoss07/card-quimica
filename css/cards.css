@@ -27,14 +27,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: blueviolet;
+    background-color: #68E873;
     transform: rotateY(0);
     cursor: pointer;
     flex-direction: column;
 }
 
 .back{
-    background-color: bisque;
+    background-color: white;
     transform: rotateY(180deg);
     cursor: pointer;
     display: flex;

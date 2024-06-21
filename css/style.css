@@ -11,14 +11,14 @@
 }
 
 body{
-    background-color: blueviolet;
+    background-color: #48DD5A;
 }
 
 main{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: darkgrey;
+    background-color: #A7FFA4;
     margin: 20px;
 }
 
